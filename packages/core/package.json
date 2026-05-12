@@ -35,6 +35,6 @@
   },
   "devDependencies": {
     "@glandjs/common": "workspace:*",
-    "typescript": "^5.5.4"
+    "typescript": "^6.0.3"
   }
 }
