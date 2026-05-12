@@ -41,6 +41,6 @@
     "reflect-metadata": "^0.2.2"
   },
   "devDependencies": {
-    "typescript": "^5.5.4"
+    "typescript": "^6.0.3"
   }
 }
